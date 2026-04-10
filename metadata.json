@@ -1,0 +1,5 @@
+{
+  "name": "Smart MedAssist AI",
+  "description": "Intelligent Medicine Assistant for Elderly and Illiterate People",
+  "requestFramePermissions": ["camera", "microphone"]
+}
